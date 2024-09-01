@@ -3,6 +3,9 @@
 Recent Computer Science graduate seeking an internship or entry-level junior engineer/developer position to leverage and enhance my technical skills through continuous learning and broad exposure to various aspects of technology. Self-motivated, up-to-date with the latest technological trends, open-minded and eager to learn, with a deep passion for technology and innovation.
 </h3>
 
+<h3 align="left">Key Courses Undertaken:</h3>
+Data Structures & Algorithms, Artificial Intelligence & Intelligent Agents, Software Development and Engineering, Operating Systems and Concurrency, Discrete Mathematics, Foundations (Computational theory), Logic & Proof, Database Management Systems, Hardware-Software Interface, Interaction Design, User-Centered Experimental Design, Data Communications and Networking, Language Processors, Programming Languages, Web Programming, Web Design & Databases
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rayyan-shariff/" target="blank">
