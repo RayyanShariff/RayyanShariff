@@ -26,7 +26,7 @@ Data Structures & Algorithms, Artificial Intelligence & Intelligent Agents, Soft
     <img src="https://github.com/ocaml/ocaml-logo/blob/master/Colour/SVG/colour-icon.svg" alt="OCaml" width="40" height="40" />
   </a>
    <a href="https://www.swi-prolog.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/seanpm2001/Learn-Prolog/blob/main/PrologLogo1.png" alt="" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" alt="" width="40" height="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
